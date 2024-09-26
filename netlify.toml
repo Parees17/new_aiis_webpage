@@ -1,6 +1,5 @@
 [build]
-  base    = "frontend" # Optional: If your frontend is in a subdirectory
-  publish = "frontend/build" # The folder where your production build is located
+  publish = "build" # The folder where your production build is located
   command = "npm run build" # The build command to create the production build
 
 [[redirects]]
