@@ -28,18 +28,18 @@
   "Services": [
     {
       "img": "img/team/coming-soon.jpg",
-      "header": "Project Meeting",
-      "date_time": "Date: 9/19/2024 @ 5:00 PM"
-    },
-    {
-      "img": "img/team/coming-soon.jpg",
-      "header": "Project Meeting",
-      "date_time": "Date: 9/26/2024 @ 5:00 PM"
-    },
-    {
-      "img": "img/team/coming-soon.jpg",
       "header": "Workshop 1: NumPy and Pandas",
-      "date_time": "Time: TBD"
+      "date_time": "9/26/2024 @ 4:00 PM"
+    },
+    {
+      "img": "img/team/coming-soon.jpg",
+      "header": "Project Meeting",
+      "date_time": "Date: 10/03/2024 @ 4:00 PM"
+    },
+    {
+      "img": "img/team/coming-soon.jpg",
+      "header": "Project Meeting",
+      "date_time": "Date: 10/10/2024 @ 4:00 PM"
     }
     
     
