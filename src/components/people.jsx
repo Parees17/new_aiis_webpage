@@ -7,7 +7,7 @@ export const People = () => {
       <Navigation/>
       <div className="text-center">
         <img className = "col-md-12"
-          src="/img/about-pic2.JPG" // You would replace this with the correct image URL or import the image
+          src="img/about-pic2.JPG" // You would replace this with the correct image URL or import the image
           alt="Wall Street"
           style={{ height: '795px', objectFit: 'cover', marginBottom:20 }}
         />

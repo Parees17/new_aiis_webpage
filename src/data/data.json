@@ -48,7 +48,7 @@
 
   "Team": [
     {
-      "img": "img/darsh.jpg",
+      "img": "img/darsh.JPG",
       "name": "Darsh Garg",
       "job": "President/Founder"
     },
@@ -58,7 +58,7 @@
       "job": "Vice President "
     },
     {
-      "img": "img/srithan.jpg",
+      "img": "img/srithan.JPG",
       "name": "Srithan Seetnesamy ",
       "job": "Head of Operations "
     },
@@ -83,7 +83,7 @@
       "job": "Advisor "
     },
     {
-      "img": "img/nav.jpg",
+      "img": "img/nav.JPG",
       "name": "Nav Nagrecha",
       "job": "Marketing Specialist "
     }
