@@ -3,7 +3,7 @@ import { Services } from "./components/services";
 
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 import JsonData from "./data/data.json";
 import "./App.css";
 import { People } from "./components/people";
