@@ -1,6 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
+  "homepage": "https://Parees17.github.io/new_aiis_webpage",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
